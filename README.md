@@ -1,0 +1,2 @@
+# MAFCore
+Componente core maf
